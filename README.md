@@ -30,3 +30,6 @@ The projects require Python 3.5 or later and the following libraries:
 
 - NumPy
 - OpenCV
+
+## Special Thanks
+Thanks To James Hays, Sam Birch and Derek Hoiem for creating these projects's startup codes.
