@@ -9,11 +9,13 @@ This project implements the convolution operation in both the time and frequency
 ## 2. Object Matching using Simplified SIFT and Harris Corner Detection
 
 This project implements a simplified version of the Scale-Invariant Feature Transform (SIFT) algorithm and the Harris corner detection algorithm to perform object matching in images. The project uses OpenCV to extract features and match them between two images. The project also includes functions to visualize the feature matching results.
+
 ![Sample Image 1](photos/harris.png)
 ![Sample Image 1](photos/SIFT.png)
 ## 3. Scene Recognition using Bag of Visual Words (BoW) and Machine Learning
 
 This project uses the Bag of Visual Words (BoW) approach coupled with Support Vector Machines (SVM) and k-Nearest Neighbor (k-NN) classifiers to perform scene recognition on a dataset of images. The project uses OpenCV to extract features and scikit-learn to train and evaluate the classifiers. The project includes functions to visualize the classification results.
+
 ![Sample Image 1](photos/Bow.png)
 
 ## Google Colab Links
