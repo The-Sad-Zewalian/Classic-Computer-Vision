@@ -18,13 +18,6 @@ This project uses the Bag of Visual Words (BoW) approach coupled with Support Ve
 
 ![Sample Image 1](photos/Bow.png)
 
-## Google Colab Links
-[Mini-Project 1](https://colab.research.google.com/drive/1icSGa4fHPVMRNZ8grAEVx-SpAF439BRT?usp=sharing)
-
-[Mini-Project 2](https://colab.research.google.com/drive/1W89wwPhsq3MXeEXyh883xGnjN8beTvKS?usp=sharing)
-
-[Mini-Project 3](https://colab.research.google.com/drive/1onSVcE9HP_GN-J4lMEbX7A9i18C4sy6A?usp=sharing)
-
 ## Requirements
 The projects require Python 3.5 or later and the following libraries:
 
